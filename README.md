@@ -87,7 +87,7 @@ The API is built using NestJS and follows a modular approach, with each module r
 2. **Meta Information**:
    - **Meta File**: `meta.json` contains initial data for the food truck api.
 
-The complete API documentation can be found at: https://documenter.getpostman.com/view/26093835/2sA3EzZ83z
+The complete API documentation can be found at: https://departuretimes-backend-1077769732453.asia-south1.run.app/api
 
 ## Expertise and Experience with NestJS
 
